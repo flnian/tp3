@@ -1,0 +1,36 @@
+[ 2019-05-05T10:34:25+08:00 ] ::1 /tp3/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E4%BD%A0%E5%A5%BD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:你好，你好
+
+[ 2019-05-05T10:34:33+08:00 ] ::1 /tp3/www.163.com
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Www.163
+
+[ 2019-05-05T10:35:12+08:00 ] ::1 /tp3/www.baidu.com
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Www.baidu
+
+[ 2019-05-05T10:35:46+08:00 ] ::1 /tp3/www.baidu.com
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Www.baidu
+
+[ 2019-05-05T10:37:11+08:00 ] ::1 /tp3/www.163.com
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Www.163
+
+[ 2019-05-05T11:09:34+08:00 ] ::1 /tp3/www.baidu.com
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Www.baidu
+

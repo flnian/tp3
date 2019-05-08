@@ -1,0 +1,30 @@
+[ 2019-04-30T09:35:20+08:00 ] ::1 /tp3/flnian/public/bs/bootstrap,css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Flnian
+
+[ 2019-04-30T09:50:23+08:00 ] ::1 /tp3/Public/bs/js/bootstrap.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Tp3
+
+[ 2019-04-30T09:50:23+08:00 ] ::1 /tp3/Public/bs/css/bootstrap.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:Tp3
+
+[ 2019-04-30T09:50:23+08:00 ] ::1 /tp3/Public/bs/js/bootstrap.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:Tp3
+
+[ 2019-04-30T09:59:15+08:00 ] ::1 /phpMyAdmin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:PhpMyAdmin
+
